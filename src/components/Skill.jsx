@@ -1,6 +1,6 @@
 import React from "react";
 import { FaHtml5, FaCss3Alt, FaReact, FaBootstrap } from "react-icons/fa";
-import { SiJavascript, SiTailwindcss, SiMongodb } from "react-icons/si";
+import { SiJavascript, SiTailwindcss, SiMongodb, SiNodedotjs } from "react-icons/si";
 
 const Skills = () => {
   const skills = [
@@ -11,6 +11,7 @@ const Skills = () => {
     { name: "Tailwind CSS", icon: <SiTailwindcss className="text-cyan-500" />, color: "bg-cyan-100" },
     { name: "Bootstrap", icon: <FaBootstrap className="text-purple-600" />, color: "bg-purple-100" },
     { name: "MongoDB", icon: <SiMongodb className="text-green-600" />, color: "bg-green-100" },
+    { name: "Node.js", icon: <SiNodedotjs className="text-green-600" />, color: "bg-green-100" },
   ];
 
   return (

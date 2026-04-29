@@ -54,12 +54,12 @@ const Project = () => {
     },
     {
       id: 6,
-      title: "BMW Web",
-      desc: "A sleek and modern website for BMW, showcasing their latest car models and features.",
-      img: "https://images.unsplash.com/photo-1556189250-72ba954cfc2b?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGJtd3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&q=60&w=600",
+      title: "Protfoliyo Website",
+      desc: "This is using modern web technologies to showcase my skills and projects.",
+      img: "https://plus.unsplash.com/premium_photo-1667520104627-fd1b3c515bb0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D",
       tech: ["React", "JavaScript", "Library"],
-      code: "https://github.com/Nikhilrj18/bwm",
-      demo: "https://bmwcar-web.netlify.app/",
+      code: "https://github.com/Nikhilrj18/kaancha",
+      demo: "https://kaancha.netlify.app/",
     },
   ];
 
