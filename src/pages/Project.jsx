@@ -27,15 +27,15 @@ const Project = () => {
     },
     {
       id: 3,
-      title: "SA Technology",
-      desc: "A tech education platform offering courses and tutorials on web development and programming.",
+      title: "Movie website ui",
+      desc: "A modern UI for a movie streaming website this show cases various films and their details.",
       img: "https://images.unsplash.com/photo-1607706189992-eae578626c86?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170",
       tech: ["React", "JavaScript", "Tailwind CSS"],
-      code: "https://github.com/Nikhilrj18/SA-technology",
-      demo: "https://sa-teachnology.netlify.app/",
+      code: "https://github.com/Nikhilrj18/movieDownload",
+      demo: "https://moviess-download.netlify.app/",
     },
     {
-      id: 4,
+      id: 5,
       title: "K72 - Web Statics",
       desc: "Static website showcasing a portfolio and services offered by a fictional web development agency.",
       img: "https://plus.unsplash.com/premium_photo-1678565869434-c81195861939?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGNvZGVyfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
@@ -43,17 +43,9 @@ const Project = () => {
       code: "https://github.com/Nikhilrj18/k72",
       demo: "https://k72-web.netlify.app/",
     },
+ 
     {
-      id: 5,
-      title: "iPhone Showcase",
-      desc: "A product showcase website for the latest iPhone model, highlighting features and specs.",
-      img: "https://images.unsplash.com/photo-1603625953304-97b6e41336b5?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aXBob25yfGVufDB8fDB8fHww&auto=format&fit=crop&q=60&w=600",
-      tech: ["React", "JavaScript", "GSAP", "Modern Views"],
-      code: "https://github.com/Nikhilrj18/apple-web",
-      demo: "https://appple-web.netlify.app/",
-    },
-    {
-      id: 6,
+      id: 4,
       title: "Protfoliyo Website",
       desc: "This is using modern web technologies to showcase my skills and projects.",
       img: "https://plus.unsplash.com/premium_photo-1667520104627-fd1b3c515bb0?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjV8fHBvcnRmb2xpb3xlbnwwfHwwfHx8MA%3D%3D",
@@ -61,6 +53,8 @@ const Project = () => {
       code: "https://github.com/Nikhilrj18/kaancha",
       demo: "https://kaancha.netlify.app/",
     },
+
+    
   ];
 
   return (
